@@ -1,7 +1,7 @@
 # Investigating Bee Data
 
 This is a Data project I completed on Data Camp as part of a competition.
-The data, image and promt was provided by DataCamp. However, the method for solving the prompt was completely self-guided.
+The data, image, and promt were provided by DataCamp. However, the method for solving the prompt was completely self-guided.
 
 ## Skills I utilized during this project:
 
